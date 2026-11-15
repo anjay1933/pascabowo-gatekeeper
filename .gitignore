@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+data/
+*.wasm
+*_final.zkey
+*.log
+.DS_Store
